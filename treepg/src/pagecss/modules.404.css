@@ -1,0 +1,18 @@
+body {
+    overflow: hidden; /* Adicione esta linha para ocultar a barra de rolagem */
+    margin: 0; /* Remova a margem padrão que pode interferir na centralização vertical */
+    color: rgb(0, 0, 0)
+}
+
+.todo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+.segundo {
+    background-color: rgba(0, 0, 0, 0.863);
+    margin-right: 120px;
+}
